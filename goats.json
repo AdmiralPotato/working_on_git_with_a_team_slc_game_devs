@@ -3,5 +3,15 @@
 		"name": "Billy",
 		"powerlevel": 9001,
 		"isGrumpy": true
+	},
+	{
+		"name": "Kid",
+		"powerlevel": 9002,
+		"isGrumpy": false,
+		"favoriteFoods": [
+			"carrots",
+			"beans",
+			"spinach"
+		]
 	}
 ]
