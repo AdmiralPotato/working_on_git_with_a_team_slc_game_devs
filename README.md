@@ -4,4 +4,4 @@ Goats sure are great! You should appreaciate them more!
 
 Don't forget to feed a local Goat some sunflowers, because they love them!
 
-They also love vim!
+They also love vim!  They are very smart goats.
